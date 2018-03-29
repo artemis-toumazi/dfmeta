@@ -11,7 +11,7 @@ The **dfmeta** package includes meta-analysis approaches for Phase I dose findin
 
 ### Establish Version  
 
- The 1st version of the package **dfmeta** will be available on CRAN very soon and it will be loaded via 
+ The 1st version of the package **dfmeta** is available on CRAN now and it will be loaded via 
 
 ```{r} 
 install.packages("dfmeta")
